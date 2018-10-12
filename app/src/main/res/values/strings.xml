@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">sTartUp</string>
+    <string name="bannerAdd">ca-app-pub-1273779759756778/3346674995</string>
+    <string name="intAdd">ca-app-pub-1273779759756778/9084133121</string>
+    <string name="aboutUs">Part of living and working in the startup world is learning from mistakes, both your own and others’. You have the chance to see what differentiates the companies that ended up having success from those that ultimately fell flat, and with any luck, you can spot those lessons before making the same blunders yourself. And while in life occasionally it’s best to let others make their own mistakes so they can learn from them, there’s no reason not to share the collective business wisdom. The ultimate goal of this series is to avoid mistakes that hurt not only the founders but the livelihood of those who have chosen to follow them in their venture.</string>
+    <string-array name="strHeadings">
+        <item>Know your purpose</item>
+        <item>Do something you love</item>
+        <item>Believe in yourself</item>
+        <item>Surround yourself with supportive people</item>
+        <item>Learn from criticism</item>
+        <item>Challenge conventional wisdom</item>
+        <item>Keep learning</item>
+        <item>Pick a good name</item>
+        <item>Serve your customer, not yourself</item>
+        <item>Find out what your customers want</item>
+        <item>Raise the right amount of capital</item>
+        <item>Plan thoroughly</item>
+        <item>Don’t plan forever</item>
+        <item>Carry on planning</item>
+        <item>Anticipate the future</item>
+        <item>Adapt</item>
+        <item>Network online</item>
+        <item>But don’t forget offline opportunities</item>
+        <item>Surround yourself with the right people</item>
+        <item>Be dedicated to work</item>
+        <item>But find time to relax</item>
+        <item>Negotiate everything</item>
+        <item>Develop an elevator pitch</item>
+        <item>Start marketing</item>
+        <item>Don’t give up</item>
+    </string-array>
+    <string-array name="strValue">
+        <item>What need does your startup address? Why will people care? If you can answer these two major questions you’re already well on your way to success.</item>
+        <item>If your heart isn’t in it, the temptation to bail during difficult times will be high. If you’re able to do something that you love, you’ll have much more motivation to keep persevering. Startups require more than a 40 hour work week—make sure this is something you’re willing to do around the clock!</item>
+        <item>Self-doubt can be crippling, so it’s important that you believe in yourself. If you know that you’re putting 100 percent into making your business a success, you’ll find that self-confidence often follows.</item>
+        <item>While you don’t want to surround yourself with “yes” men, it’s also important that you don’t have to constantly contend with people putting you and your business down. Don’t waste your time or energy on the defense.</item>
+        <item>Relentless negativity is of no use to you, but thoughtful criticism can be very valuable. Any opportunity to improve an aspect of your business should be warmly welcomed.</item>
+        <item>Learn to spot when helpful advice is merely a suggestion to conform to the popular paradigm of the times.</item>
+        <item>Think you know it all? Think again. There’s always more to learn, so be wary of becoming too complacent. Everything you learn is an opportunity to improve your business. That goes for mistakes as well—all startups will suffer from mistakes, but the entrepreneurs that learn from them are likely to be in the successful 25 percent.</item>
+        <item>"Good" can be a subjective qualifier, so you should try making your decision based on what your target audience would enjoy.</item>
+        <item>While you should rightfully feel ownership of your startup, remember that ultimately it’s there to serve your customer and not you—vanity projects won’t last long. Keep the customer in mind with every decision you make, and you’ll build a product or service they can get excited about.</item>
+        <item>Blindly assuming you know what your customers want could prove costly. Fortunately, researching it first doesn’t have to be expensive—you can search forums, ask questions on social media, or spend some money on surveying opinions (and save yourself a pricey mistake!)</item>
+        <item>While you need enough money to give your startup every chance of success, bear in mind that having too much can make you lazy and all too willing to part with your cash. Of course, you may want the option to access emergency funds—you’ll just have to make sure you can stick to a strict budget and define what exactly an emergency is.</item>
+        <item>A business plan is much more than a necessary evil to help you get funding—it can act as a guide and keep you focused on the task at hand. It’s easy to get caught up in the minute details and lose sight of the big picture.</item>
+        <item>Don’t get caught in the trap of thinking that since you’re planning you’re being productive. Planning must make way for doing—preferably sooner rather than later, so use your time wisely.</item>
+        <item>Once you’ve done a bit of doing, go ahead and go back to planning. Constantly re-evaluating your business and the direction it’s going in can help you find opportunities for growth.</item>
+        <item>Nobody can know for sure what tomorrow will bring, but if you keep yourself informed and learn how to spot upcoming trends, you’ll be much more likely to successfully predict the future.</item>
+        <item>However, no one can predict everything—you’re only human, after all—so make sure you and your business are flexible enough to react to surprises quickly. Don’t follow in the footsteps of movie rental company Blockbuster, the latest business to have failed in recent years because of their inability to roll with the punches.</item>
+        <item>Harness the power of social media to help connect you with potential employees, partners, clients, providers, or people that can promote your product or service.</item>
+        <item>Step away from the computer, put away your smartphone, and find people in real life at conferences and networking events. The connection you can make with a person face-to-face is naturally stronger than one mediated between screens. And of course, don’t forget a professional business card to turn your encounter into a relationship.</item>
+        <item>Networking is a means to an end—you need to establish who is worth your time and who isn’t. Don’t underestimate the value of someone useful, and similarly, don’t underestimate the destructive potential of someone who isn’t.</item>
+        <item>Launching a startup is not like having a regular 9 to 5 job—if you want to avoid failure, you have to be prepared to fit your life around work. It may seem like working for yourself will mean better hours, but to be successful, you’ll most likely be going way over the standard 40 hour work week. On the bright side, whatever results from your hard work is entirely your own.</item>
+        <item>While any entrepreneur must expect an increased workload, you still need to find time to unwind. Without being able to occasionally relax, you’ll inevitably suffer from burnout, causing more damage to your business.</item>
+        <item>Whenever a price is quoted to you, remember that a healthy proportion of that is profit margin. Can you lower that margin for your benefit? You might not always be able to coordinate a discount, but it’s worth remembering one of life’s most important rules: if you don’t ask, you don’t get.</item>
+        <item>Of course, if you want to convince the vital people that you’re worth their time, you’ll have to capture their attention within 30 seconds. If you can develop an elevator pitch that will intrigue people and show your idea has potential in that amount of time, you’ll inevitably be afforded more time to discuss matters with them later.</item>
+        <item>If people don’t know you exist you can’t expect positive results. Whatever your budget, there are things you can do (like tip #17) to start getting the word about your start up out now—tweet, contact blogs, and tell everyone willing to listen about your new venture.</item>
+        <item>In many cases, startups don’t fail—the people behind them give up. The single most effective thing you can do to make your startup a success? Refuse to throw in the towel.</item>
+    </string-array>
+</resources>
